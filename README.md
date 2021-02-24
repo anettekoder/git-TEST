@@ -1,3 +1,3 @@
 # TEST
 
-Tester git og github fra youtube video for nybegynnere
+Tester git og github fra youtube video for nybegynnere!
